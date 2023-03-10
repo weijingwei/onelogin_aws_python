@@ -1,0 +1,24 @@
+{
+  "app_id": "672630",
+  "subdomain": "everbridge",
+  "username": "jingwei.wei@everbridge.com",
+  "duration": 28800,
+  "profile": "dev",
+  "profiles": {
+    "dev": {
+      "aws_account_id": "360915197767",
+      "aws_role_name": "Developer",
+      "aws_region": "us-west-2"
+    },
+    "prod": {
+      "aws_account_id": "214792946631",
+      "aws_role_name": "Developer",
+      "aws_region": "us-west-2"
+    },
+    "deve": {
+      "aws_account_id": "360915197767",
+      "aws_role_name": "Developer",
+      "aws_region": "us-east-1"
+    }
+  }
+}
